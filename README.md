@@ -2,5 +2,6 @@
 
 # Projects
 
-## 1. Counter App
+## 1. Counter App | 2.Unit Testing and Integration Testing
+
 
