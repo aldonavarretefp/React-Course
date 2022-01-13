@@ -27,5 +27,19 @@ After the development, I learned:
   <li>Generate production build of the App</li>
 </ul>
 
+## Section 9. React Hooks & Custom Hooks 🪝
+Here I learned all these hooks! and look into real cases and where to use each of one in order to avoid re-rendering, and stuff...
+<ul>
+  <li>useState</li>
+  <li>useCounter</li>
+  <li>useEfffect</li>
+  <li>useEffect UnMount</li>
+  <li>useFetch</li>
+  <li>useRef</li>
+  <li>useLayoutEffect</li>
+  <li>useMemo</li>
+  <li>memo (React function)</li>
+  <li>useCallBack</li>
+</ul>
 
 
