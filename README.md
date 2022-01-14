@@ -28,6 +28,7 @@ After the development, I learned:
 </ul>
 
 ## Section 9. React Hooks & Custom Hooks 🪝
+
 Here I learned all these hooks! and look into real cases and where to use each of one in order to avoid re-rendering, and stuff...
 <ul>
   <li>useState</li>
@@ -41,5 +42,12 @@ Here I learned all these hooks! and look into real cases and where to use each o
   <li>memo (React function)</li>
   <li>useCallBack</li>
 </ul>
+
+## Section 10. useReducer
+
+Here I learned how to make a to do app using reducer. Here it is an image from the course explaining reducer workflow.
+<p class="text-center">
+  <img src="https://res.cloudinary.com/aldonavarrete/image/upload/v1642112348/Screen_Shot_2022-01-13_at_16.18.47_ffqopg.png" alt="useReducer"/>
+</p
 
 
