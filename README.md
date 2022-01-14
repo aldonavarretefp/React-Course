@@ -45,9 +45,20 @@ Here I learned all these hooks! and look into real cases and where to use each o
 
 ## Section 10. useReducer
 
-Here I learned how to make a to do app using reducer. Here it is an image from the course explaining reducer workflow.
+Here I learned how to make a to do app using reducer. Here it is an image from the course explaining reducer workflow.<br>
+Topics for this sections are:
+  <ul>
+  <li>useReducer</li>
+  <li>Reducers</li>
+  <li>Reducers theory</li>
+  <li>ToDo App</li>
+  <li>Local CRUD</li>
+</ul>
 <p class="text-center">
   <img src="https://res.cloudinary.com/aldonavarrete/image/upload/v1642112348/Screen_Shot_2022-01-13_at_16.18.47_ffqopg.png" alt="useReducer"/>
-</p
+</p>
+
+## Section 11. useContext
+
 
 
