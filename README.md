@@ -31,7 +31,7 @@ After the development, I learned:
 
 Here I learned all these hooks! and look into real cases and where to use each of one in order to avoid re-rendering, and stuff...
 <ul>
-  <li>useState</li>
+  <li>useState</li> 
   <li>useCounter</li>
   <li>useEfffect</li>
   <li>useEffect UnMount</li>
@@ -59,6 +59,61 @@ Topics for this sections are:
 </p>
 
 ## Section 11. useContext
+Here I learned how to use context in React.
+<ul>
+  <li>Context</li>
+  <li>Provider</li>
+  <li>useContext</li>
+  <li>React Router</li>
+  <li>Links y NavLinks</li>
+  <li>CreateContext</li>
+  <li>SPA ( Single Page Application )</li>
+</ul>
+The objective of this section was to learn how to use context in React.
 
 
+## Section 14. Heroes App (Single Page Application) <a href="https://condescending-snyder-570e07.netlify.app/" rel="noopener noreferer" target="_blank">(link here)</a>
+### ScreenShot of the App
+<img 
+  src="./img/heroes.png"
+  alt="Heroes App"
+/>
+<br/>
+Here I practiced the concepts previously learned in the course and:
+<ul>
+  <li>SPA ( Single Page Application ) a profundidad</li>
+  <li>Diferentes themes applied to the same App but with diferent Routes</li>
+  <li>Multiple routes</li>
+  <li>Push/Replace in History (Navigate)</li>
+  <li>Read arguments by URL</li>
+  <li>Query Parameters</li>
+  <li>Apply filters using query params</li>
+</ul>
 
+## Section 15. Protecting Routes
+Here I learned how to protect routes in React.
+This is a small section but important to work with the authentication and protection of our application.
+<ul>
+  <li>Protecting Routes</li>
+  <li>Private Routes</li>
+  <li>Public Routes</li>
+  <li>Fake Login and Logout</li>
+  <li>Store last path in local Storage</li>
+  <li>Context</li>
+  <li>useContext</li>
+  <li>Reducer</li>
+</ul>
+
+
+## Section 17. Working with Images
+Here I learned how to work with images in React and how to use them in the app, no matter if they are in the public folder or in the src folder.
+
+## Section 18. Journal App
+Here I built a journal app using React and learned:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
