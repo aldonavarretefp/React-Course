@@ -117,3 +117,17 @@ Here I built a journal app using React and learned:
   <li></li>
   <li></li>
 </ul>
+
+## Section 19. Redux
+Here I learned how to use Redux in React.<br/>
+Diagram of Redux (Sync):
+<img 
+  src="./img/reduxSync.png"
+/>
+Diagram of Redux (Async):
+<img 
+  src="./img/reduxAsync.png"
+/>
+
+## Section 20. Intro to Redux and Firebase Authentication.
+Here I learned how to use Redux and Firebase Authentication in React.
