@@ -71,6 +71,10 @@ Here I learned how to use context in React.
 </ul>
 The objective of this section was to learn how to use context in React.
 
+## Section 12. Tests in custom Hooks.
+This is the main topic. Evaluate all applied Hooks in the previous section and learning real life use cases.
+
+In addition, we are going to test a reducer. Checking which responsabilities are ours and which are not.
 
 ## Section 14. Heroes App (Single Page Application) <a href="https://condescending-snyder-570e07.netlify.app/" rel="noopener noreferer" target="_blank">(link here)</a>
 ### ScreenShot of the App
